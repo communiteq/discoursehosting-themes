@@ -25,6 +25,8 @@ Adds extra items in the top menu bar. You can change the description, tooltip, a
 
 https://raw.githubusercontent.com/discoursehosting/discoursehosting-themes/master/add-items-in-top-bar.dcstyle.json
 
+---
+
 ### Custom Header with Dropdown Navigation
 
 **Description:**
@@ -39,6 +41,8 @@ https://raw.githubusercontent.com/discoursehosting/discoursehosting-themes/maste
 
 https://raw.githubusercontent.com/discoursehosting/discoursehosting-themes/master/custom-header-with-dropdown-navigation.dcstyle.json
 
+---
+
 ### Change home logo URL
 
 **Description:**
@@ -49,6 +53,7 @@ Changes the URL where clicking the main logo in the top left points to. It's bes
 
 https://raw.githubusercontent.com/discoursehosting/discoursehosting-themes/master/change-home-logo-url.dcstyle.json
 
+---
 
 ### Extra items in Category menu line
 
